@@ -41,7 +41,7 @@
 # words.sort()
 # print(words[-1])
 # q5
-number = float(input("please enter the value : "))
+number = int(input("please enter the value : "))
 nr = 0
 nr_5000 = number / 5000
 nr_2000 = number / 2000
